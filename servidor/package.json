@@ -1,9 +1,9 @@
 {
-  "name": "clontagram-servidor",
+  "name": "instacool-servidor",
   "version": "1.0.0",
   "main": "index.js",
   "private": true,
-  "author": "Ricardo y Daniel Macario",
+  "author": "Hugo Cruz",
   "license": "ISC",
   "scripts": {
     "dev": "nodemon index.js",
