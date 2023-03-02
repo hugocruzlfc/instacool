@@ -1,8 +1,8 @@
 {
-  "name": "clontagram-cliente",
+  "name": "instacool-cliente",
   "version": "1.0.0",
   "private": true,
-  "author": "Ricardo y Daniel Macario",
+  "author": "Hugo Cruz",
   "license": "ISC",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.34",
