@@ -1,12 +1,8 @@
-# Clontagram
 
-Este es el repositorio para el código de [https://clontagram.com](https://clontagram.com).
 
 ## Descripción del proyecto
 
 El repositorio tiene dos carpetas, una llamada servidor y otra llamada cliente. El servidor es una aplicación de Node.js, y el cliente es una aplicación de React.js.
-
-En el curso nos vamos a estar enfocando unicamente en el cliente. Pero necesitamos el servidor para poder pedir y guardar data.
 
 ## Pasos para ejecutar el proyecto
 
@@ -29,5 +25,3 @@ Una vez que el servidor se este ejecutando, podemos encender el cliente. Estos s
 - Instala las dependencias: `npm install`
 - Enciende el frontend: `npm start`
 - Visita [http://localhost:3001](http://localhost:3001)
-
-Si todo sale bien, cuando visites el URL mencionado anteriormente vas a ver un mensaje diciendo: "¡Bienvenido al curso!"
